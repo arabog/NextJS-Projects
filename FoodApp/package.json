@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "FoodApp",
   "private": true,
   "scripts": {
     "dev": "next dev",
